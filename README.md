@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Shopping Basket Shop in React JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Online Preview : https://shimmering-zabaione-32a712.netlify.app
+
+##
 
 ## Available Scripts
 
